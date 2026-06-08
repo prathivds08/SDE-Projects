@@ -71,6 +71,7 @@ git clone https://github.com/prathivds08/SDE-Projects.git
 ## Move Into Project Folder
 
 ```bash
+cd SDE-Projects
 cd Interactive-Maze-Pathfinding-Visualizer
 ```
 
