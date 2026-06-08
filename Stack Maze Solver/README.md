@@ -65,7 +65,7 @@ Interactive-Maze-Pathfinding-Visualizer/
 ## Clone Repository
 
 ```bash
-git clone https://github.com/prathivds08/SDE-Projects/tree/main
+git clone https://github.com/prathivds08/SDE-Projects.git
 ```
 
 ## Move Into Project Folder
