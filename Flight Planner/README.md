@@ -123,7 +123,7 @@ The application visualizes:
 ### 1. Clone Repository
 
 ```bash
-git clone <your-repository-link>
+git clone https://github.com/prathivds08/SDE-Projects.git
 ```
 
 ### 2. Install Dependencies
