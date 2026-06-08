@@ -44,4 +44,4 @@ class PacMan:
             if new_current_cell==current_cell:
                 path_stack.pop()
         #print(path_stack.data,"path data")
-        raise PathNotFoundException
+        raise PathNotFoundException()
