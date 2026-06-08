@@ -110,11 +110,11 @@ The application visualizes:
 
 ### CLI Output
 
-(Add screenshot here)
+![CLI Output](screenshots/cli-output.png)
 
 ### Route Visualization
 
-(Add screenshot here)
+![Route Visualization](screenshots/route-visualisation.png)
 
 ---
 
